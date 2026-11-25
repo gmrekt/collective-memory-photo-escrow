@@ -1,0 +1,13 @@
+{
+  "name": "collective-memory-photo-escrow",
+  "version": "1.0.0",
+  "description": "Collective Memory x GenLayer Internet Court demo: photo-verification payment adjudicated by an Intelligent Contract escrow on Studio Next (chain 61997)",
+  "type": "module",
+  "scripts": {
+    "demo": "node scripts/demo.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "genlayer-js": "^2.0.0"
+  }
+}
