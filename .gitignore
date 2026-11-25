@@ -1,0 +1,6 @@
+node_modules/
+.env
+.deployer-key
+.account-password
+.contract-address
+.deploy-tx
